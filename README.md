@@ -1,7 +1,10 @@
+Problem ❓:
+
 A Deep dive into online retail by analyzing a 2010-2011 transactional dataset from a UK-based retailer.
 We aim to amplify the efficiency of marketing strategies and boost sales through customer segmentation via K-means clustering. 
 Furthermore, we develop a recommendation system that will suggest top-selling products to customers within each segment.
 
+Objectives 🎯:
 
 - **Data Cleaning & Transformation**: Clean the dataset by handling missing values, duplicates, and outliers, preparing it for effective clustering.
 
